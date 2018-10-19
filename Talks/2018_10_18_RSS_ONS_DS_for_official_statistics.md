@@ -1,6 +1,9 @@
 Data Science for official statistics: the story so far
 ======================================================
 
+Organised by [The Royal Statistical Society](https://www.rss.org.uk/) in
+St Martin-in-the-Fields, Trafalgar Square
+
 First talk: Statistics on jobs, business and people - where data science is adding value
 ----------------------------------------------------------------------------------------
 
