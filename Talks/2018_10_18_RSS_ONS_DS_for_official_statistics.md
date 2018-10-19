@@ -101,6 +101,8 @@ time it takes to reach critical infrastruture/areas from any point. She
 shows dark areas representing areas in Whales that do not have access to
 a hypothetical important area/point.
 
+![](https://github.com/JosepER/talks_and_presentations/blob/master/raw_rmd/images/181019_1.jpg)
+
 Third talk: Data science for official statistics: the story so far
 ------------------------------------------------------------------
 
