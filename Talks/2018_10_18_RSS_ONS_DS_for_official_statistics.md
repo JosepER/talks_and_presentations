@@ -19,7 +19,7 @@ complete list of addresses, but this can be complicated. The challenge
 is to take an input address string, which comes from unstructured, messy
 and incomplete data and convert it into a clean list of addresses.
 
-First, they tokenise the raw inputed strings. They used 'structured
+First, they tokenise the raw inputted strings. They used 'structured
 learning' and an algorithm called 'conditional random fields' which
 calculates the likely sequence of words. They have a really good
 accuracy overall.
@@ -69,7 +69,7 @@ analyse the availability of these areas in different places. Part of the
 code to visualise the results seems to be
 [here](https://github.com/datasciencecampus/vegetation-deckgl)
 
-***Internet traffic indicators***: They analise (internet) data
+***Internet traffic indicators***: They analyse (internet) data
 consumption and try to relate it to socio-economic
 indicators/activities.
 
@@ -97,7 +97,7 @@ Word2Vec. They compare the ONS publications text with the search query.
 ***Access to Services. A Multi-Modal Transport System***: Used to
 identify deprived areas to target public services. They use Open Trip
 Planner (an open source "Google Maps" type of app). They can compute the
-time it takes to reach critical infrastruture/areas from any point. She
+time it takes to reach critical infrastructure/areas from any point. She
 shows dark areas representing areas in Whales that do not have access to
 a hypothetical important area/point.
 
@@ -108,12 +108,13 @@ Third talk: Data science for official statistics: the story so far
 
 **by Suzy Moat from Data Science Lab, Warwick Business School**
 
-Now we are trying to use data that people are leaving behind instead of
-collecting the data through surveys or similar methods. We are
-interested in quicker, cheaper, novel measurements. Are we going to
-replace original approaches or just enhance these? She says that (short
-term) we are not so likely to replace, but to improve the estimates
-produced. New sources of data might have biases and many new methods
-might be black-box algorithms. She says we should test how accurate they
-are instead of trying to understand the exact nature of the source and
-the algorithm.
+Suzy argued that now we are starting to try to use data that people are
+leaving behind instead of collecting the data through surveys or similar
+methods. We are interested in quicker, cheaper, novel measurements. The
+question is: are we going to replace original approaches or just enhance
+these? She said that (short term) we are not so likely to replace
+traditional sources, but to improve the estimates these produced. New
+sources of data might have biases and many new methods might be
+black-box algorithms. She said we should test how accurate they are
+instead of trying to understand the exact nature of the source and the
+algorithm.
