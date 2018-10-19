@@ -52,7 +52,7 @@ She gave more examples of DS applications at ONS:
 
 **_Access to Services. A Multi-Modal Transport System_**: Used to identify deprived areas to target public services. They use Open Trip Planner (an open source "Google Maps" type of app). They can compute the time it takes to reach critical infrastruture/areas from any point. She shows dark areas representing areas in Whales that do not have access to a hypothetical important area/point.
 
-![](raw_rmd/images/181019_1.jpg)
+![](https://github.com/JosepER/talks_and_presentations/blob/master/raw_rmd/images/181019_1.jpg)
 
 ## Third talk: Data science for official statistics: the story so far
 **by Suzy Moat from Data Science Lab, Warwick Business School**
