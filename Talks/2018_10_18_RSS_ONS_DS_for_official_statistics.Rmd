@@ -1,6 +1,10 @@
 ---
-title: "Data Science for official statistics: the story so far"
-output: html_notebook
+title: 'Data Science for official statistics: the story so far'
+output:
+  html_document:
+    df_print: paged
+editor_options:
+  chunk_output_type: inline
 ---
 
 ##First talk: Statistics on jobs, business and people - where data science is adding value
